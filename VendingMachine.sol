@@ -8,6 +8,7 @@ pragma solidity >=0.6.0 <0.9.0;
  * The customer pays the specified fee for an item and the available inventory is adjusted after releasing the item to the customer.
  * The machine can hold up to 10 items and 10 of each item.
  * The owner can collect the funds at any time.
+ * FIX ME: finish the project.
  */
 
 import "./StringUtils.sol"; //library providing functions for comparing strings
